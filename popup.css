@@ -1,4 +1,6 @@
 .color{
     color: blue;
-    text-align: center;
+}
+.crust{
+    margin-left: -1em;
 }
